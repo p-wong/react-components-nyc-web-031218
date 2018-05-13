@@ -43,6 +43,7 @@ When React creates this element and adds it to the DOM, the resulting HTML will 
 <div>i am a hard coded comment! help! make me dynamic!</div>
 ```
 
+
 ---
 
 ### Step 2 -- re-use the component many times!
